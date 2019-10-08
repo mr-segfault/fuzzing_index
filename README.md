@@ -272,19 +272,20 @@ https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruptio
 
 [grammarinator](https://github.com/renatahodovan/grammarinator) - Fuzzing tool for file formats based on ANTLR v4 grammars (lots of grammars already available from the ANTLR project).
 
+
 ### Network Protocol Fuzzers
 
 *Fuzzers which helps in fuzzing applications which use network based protocals like HTTP, SSH, SMTP etc.,*
 
-[Peach Fuzzer](https://sourceforge.net/projects/peachfuzz/) - Framework which helps to create custom dumb and smart fuzzers.
+[Peach Fuzzer](https://peachfuzz.sourceforge.net/) - Framework which helps to create custom dumb and smart fuzzers.
 
-[Sulley](https://github.com/OpenRCE/sulley) -  A fuzzer development and fuzz testing framework consisting of multiple extensible components by Pedram Amini.
+[Sulley](https://github.com/OpenRCE/sulley) -  A fuzzer development and fuzz testing framework consisting of multiple extensible components by Michael Sutton.
 
 [boofuzz](https://github.com/jtpereyda/boofuzz) -  A fork and successor of Sulley framework.
 
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley. 
 
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) - A framework which contains some fuzzing capabilities via Auxiliary modules. 
+[Metasploit Framework](https://www.rapid7.com/products/metasploit/download.jsp) - A framework which contains some fuzzing capabilities via Auxiliary modules. 
 
 [Nightmare](https://github.com/joxeankoret/nightmare) - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
 
@@ -353,7 +354,6 @@ https://www.ee.oulu.fi/research/ouspg/Fuzzers
 ### Essential Tools
 
 *Tools of the trade for exploit developers, reverse engineers*
-
 
 #### Debuggers 
 
@@ -588,27 +588,6 @@ https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruptio
 ## Tools
 
 *Tools which helps in fuzzing applications*
-
-
-
-
-### Network Protocol Fuzzers
-
-*Fuzzers which helps in fuzzing applications which use network based protocals like HTTP, SSH, SMTP etc.,*
-
-[Peach Fuzzer](https://peachfuzz.sourceforge.net/) - Framework which helps to create custom dumb and smart fuzzers.
-
-[Sulley](https://github.com/OpenRCE/sulley) -  A fuzzer development and fuzz testing framework consisting of multiple extensible components by Michael Sutton.
-
-[boofuzz](https://github.com/jtpereyda/boofuzz) -  A fork and successor of Sulley framework.
-
-[Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley. 
-
-[Metasploit Framework](https://www.rapid7.com/products/metasploit/download.jsp) - A framework which contains some fuzzing capabilities via Auxiliary modules. 
-
-[Nightmare](https://github.com/joxeankoret/nightmare) - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
-
-[rage_fuzzer](https://github.com/deanjerkovich/rage_fuzzer) - A dumb protocol-unaware packet fuzzer/replayer.
 
 
 ### Misc 
