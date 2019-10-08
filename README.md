@@ -24,7 +24,6 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 - [Anti-Fuzzing](#anti-fuzzing)
 - [Contributing](#contributing)
 
-
 # Awesome Fuzzing Resources
 
 ## Books
@@ -414,26 +413,6 @@ Thanks to the following folks who made contributions to this project.
 + [and these awesome people](https://github.com/secfigo/Awesome-Fuzzing/graphs/contributors)
 
 
-### Table of Contents
-- [Books](#books)
-- [Courses](#courses)
-   + [Free](#free)
-   + [Paid](#paid)
-- [Videos](#videos)
-  + [NYU Poly Course videos](#nyu-poly-course-videos)
-  + [Conference talks and tutorials](#conference-talks-and-tutorials)
-- [Tutorials and Blogs](#tutorials-and-blogs)
-- [Tools](#tools)
-  + [File Format Fuzzers](#file-format-fuzzers)
-  + [Network Protocol Fuzzers](#network-protocol-fuzzers)
-  + [Taint Analysis](#taint-analysis)
-  + [Symbolic Execution SAT and SMT Solvers](#symbolic-execution-sat-and-smt-solvers)
-  + [Essential Tools](#essential-tools)
-- [Vulnerable Applications](#vulnerable-applications)
-- [Anti-Fuzzing](#anti-fuzzing)
-- [Contributing](#contributing)
-
-
 # Awesome Fuzzing Resources
 
 ## Books
@@ -460,26 +439,6 @@ Thanks to the following folks who made contributions to this project.
 ## Courses
 
 *Courses/Training videos on fuzzing*
-
-
-### Free  
-
-[NYU Poly ( see videos for more )](https://vimeo.com/5236104 ) - Made available freely by Dan Guido.
-
-[Samclass.info ( check projects section and chapter 17 ) ](https://samsclass.info/127/127_F15.shtml) - by Sam.
-
-[Modern Binary Exploitation ( RPISEC ) - Chapter 15 ](https://github.com/RPISEC/MBE) - by RPISEC.
-
-[Offensive Computer Security - Week 6](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - by W. Owen Redwood and Prof. Xiuwen Liu. 
-
-### Paid
-
-[Offensive Security, Cracking The Perimeter ( CTP ) and Advanced Windows Exploitation ( AWE )](https://www.offensive-security.com/information-security-training/)
-
-[SANS 660/760 Advanced Exploit Development for Penetration Testers](https://www.sans.org/course/advance-exploit-development-pentetration-testers)
-
-[Exodus Intelligence - Vulnerability development master class](https://blog.exodusintel.com/2016/05/18/exodus-intelligence-2016-training-course/)
-
 
 ## Videos
 
