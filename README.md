@@ -218,6 +218,28 @@ https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruptio
 
 ### File Format Fuzzers
 
+### File Format Fuzzers
+
+*Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,*
+
+[TriforceAFL](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/project-triforce-run-afl-on-everything/) - A modified version of AFL that supports fuzzing for applications whose source code not available.
+
+[Peach Fuzzer](https://peachfuzz.sourceforge.net/) - Framework which helps to create custom dumb and smart fuzzers.
+
+[MozPeach](https://github.com/MozillaSecurity/peach) - A fork of peach 2.7 by Mozilla Security.
+
+[Failure Observation Engine (FOE)](www.cert.org/vulnerability-analysis/tools/foe.cfm) - mutational file-based fuzz testing tool for windows applications.
+
+[rmadair](http://rmadair.github.io/fuzzer/) - mutation based file fuzzer that uses PyDBG to monitor for signals of interest.
+
+[honggfuzz](https://github.com/google/honggfuzz) - A general-purpose, easy-to-use fuzzer with interesting analysis options. Supports feedback-driven fuzzing based on code coverage. Supports GNU/Linux, FreeBSD, Mac OSX and Android.
+
+[zzuf](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer. It works by intercepting file operations and changing random bits in the program's input.
+
+[radamsa](https://github.com/aoh/radamsa) - A general purpose fuzzer and test case generator.
+
+[binspector](https://github.com/binspector/binspector) - A binary format analysis and fuzzing tool
+
 *Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,*
 
 [MiniFuzz - Wayback Machine link](https://web.archive.org/web/20140512203517/http://download.microsoft.com/download/D/6/E/D6EDC908-A1D7-4790-AB0B-66A8B35CD931/MiniFuzzSetup.msi) - Basic file format fuzzing tool by Microsoft. (No longer available on Microsoft website).
@@ -568,37 +590,7 @@ https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruptio
 *Tools which helps in fuzzing applications*
 
 
-### File Format Fuzzers
 
-*Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,*
-
-[MiniFuzz](https://www.microsoft.com/en-sg/download/details.aspx?id=21769) - Basic file format fuzzing tool by Microsoft.
-
-[BFF from CERT](https://www.cert.org/vulnerability-analysis/tools/bff.cfm?) - Basic Fuzzing Framework for file formats.
-
-[AFL Fuzzer (Linux only)]( http://lcamtuf.coredump.cx/afl/) - American Fuzzy Lop Fuzzer by Michal Zalewski aka lcamtuf
-
-[Win AFL](https://github.com/ivanfratric/winafl) - A fork of AFL for fuzzing Windows binaries by Ivan Fratic
-
-[Shellphish Fuzzer](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
-
-[TriforceAFL](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/project-triforce-run-afl-on-everything/) - A modified version of AFL that supports fuzzing for applications whose source code not available.
-
-[Peach Fuzzer](https://peachfuzz.sourceforge.net/) - Framework which helps to create custom dumb and smart fuzzers.
-
-[MozPeach](https://github.com/MozillaSecurity/peach) - A fork of peach 2.7 by Mozilla Security.
-
-[Failure Observation Engine (FOE)](www.cert.org/vulnerability-analysis/tools/foe.cfm) - mutational file-based fuzz testing tool for windows applications.
-
-[rmadair](http://rmadair.github.io/fuzzer/) - mutation based file fuzzer that uses PyDBG to monitor for signals of interest.
-
-[honggfuzz](https://github.com/google/honggfuzz) - A general-purpose, easy-to-use fuzzer with interesting analysis options. Supports feedback-driven fuzzing based on code coverage. Supports GNU/Linux, FreeBSD, Mac OSX and Android.
-
-[zzuf](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer. It works by intercepting file operations and changing random bits in the program's input.
-
-[radamsa](https://github.com/aoh/radamsa) - A general purpose fuzzer and test case generator.
-
-[binspector](https://github.com/binspector/binspector) - A binary format analysis and fuzzing tool
 
 ### Network Protocol Fuzzers
 
