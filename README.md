@@ -218,8 +218,6 @@ https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruptio
 
 ### File Format Fuzzers
 
-### File Format Fuzzers
-
 *Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,*
 
 [TriforceAFL](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/project-triforce-run-afl-on-everything/) - A modified version of AFL that supports fuzzing for applications whose source code not available.
@@ -425,37 +423,6 @@ https://files.fuzzing-project.org/
 [Introduction to Anti-Fuzzing: A Defence In-Depth Aid](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2014/january/introduction-to-anti-fuzzing-a-defence-in-depth-aid/)
 
 
-## Contributing
-
-[Please refer the guidelines at contributing.md for details](Contributing.md).
-
-Thanks to the following folks who made contributions to this project. 
-+ [Tim Strazzere](https://twitter.com/timstrazz)
-+ [jksecurity](https://github.com/jksecurity)
-+ [and these awesome people](https://github.com/secfigo/Awesome-Fuzzing/graphs/contributors)
-
-
-# Awesome Fuzzing Resources
-
-## Books
-
-*Books on fuzzing*
-- [Fuzzing: Brute Force Vulnerability Discovery](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119) by Michael Sutton, Adam Greene, Pedram Amini.
-
-- [Fuzzing for Software Security Testing and Quality Assurance ](https://www.amazon.com/Fuzzing-Software-Security-Assurance-Information/dp/1596932147) by Ari Takanen, Charles Miller, and Jared D Demott.
-
-- [Open Source Fuzzing Tools](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950) by by Gadi Evron and Noam Rathaus.
-
-- [Gray Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) by Justin Seitz.
-
-
-> **Note:** Chapter(s) in the following books are dedicated to fuzzing.
-
-> - [The Shellcoder's Handbook: Discovering and Exploiting Security Holes ( Chapter 15 )](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/) by Chris Anley, Dave Aitel, David Litchfield and others.
-
-> - [iOS Hacker's Handbook - Chapter 1](https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123/) Charles Miller, Dino DaiZovi, Dion Blazakis, Ralf-Philip Weinmann, and Stefan Esser.
-
-> - [IDA Pro - The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler-ebook/dp/B005EI84TM)
 
 
 ## Courses
